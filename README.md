@@ -8,7 +8,7 @@
 - DNS hosts file # 충돌을 피해준다.localhost:
 
 ### NVM install(Node Version Manager)
-
+Create bashrc
 - ref
 
 ### Brew install 
